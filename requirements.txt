@@ -1,0 +1,2 @@
+python-docx==0.8.10
+pyttsx3==2.90
